@@ -37,7 +37,7 @@ Loan Acc/
 ### 1. Clone/Download the Repository
 
 ```bash
-cd "Loan Acc"
+cd "ShodhAI"
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
