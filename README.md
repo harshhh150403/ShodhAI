@@ -25,7 +25,9 @@ Loan Acc/
 ├── feature_engineering.ipynb          # Data preprocessing
 ├── model_training.ipynb               # Deep Learning model
 ├── rl_agent.ipynb                     # Offline RL agent
-├── final_report.md                    # Analysis & comparison
+├── Report/                            # Analysis & comparison
+│   ├── final_report.md             
+│   └── final_report(pdf).pdf          
 ├── requirements.txt                   # Dependencies
 └── README.md                          # This file
 ```
