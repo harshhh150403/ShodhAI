@@ -1,3 +1,0 @@
-# ShodhAI
-
-demo
