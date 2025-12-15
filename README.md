@@ -13,7 +13,7 @@ This project compares two approaches for loan approval decisions:
 ```
 Loan Acc/
 ├── data/
-│   ├── accepted_2007_to_2018Q4.csv   # Raw data (~6GB)
+│   ├── accepted_2007_to_2018Q4.csv    # Raw data (~6GB)
 │   └── processed/                     # Feature-engineered data
 │       ├── X_train.parquet
 │       ├── X_test.parquet
